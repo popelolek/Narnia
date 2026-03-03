@@ -1,4 +1,6 @@
-## The Chronicles of Narnia by C. S. Lewis
+## The Chronicles of Narnia
+### C. S. Lewis
+
 Book 1: The Lion, the Witch and the Wardrobe (1950)
 
 Book 2: Prince Caspian (1951)
