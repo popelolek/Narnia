@@ -14,4 +14,4 @@ Book 6: The Magician's Nephew (1955)
 
 Book 7: The Last Battle (1956)
 
-The books in the repository are listed in release order rather than recently revised order which begins with "The Magician's Nephew."
+*The books in the repository are listed in release order rather than recently revised order which begins with "The Magician's Nephew."*
